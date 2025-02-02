@@ -1,3 +1,7 @@
+# Admin Login Details:
+## `Email: rishad.islam158@gmail.com`
+## `Password: Abc123@#`
+
 ## Project Setup 
 
 **1** Clone the repository <br/>

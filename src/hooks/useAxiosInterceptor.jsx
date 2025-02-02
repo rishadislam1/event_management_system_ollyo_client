@@ -1,8 +1,8 @@
 import axios from "axios";
 import { useEffect } from "react";
 
-export const BASE_URL = "http://localhost:8080/event_management_system";
-
+// export const BASE_URL = "http://localhost:8080/event_management_system";
+    export const BASE_URL = "https://ollyo.code-thesis.com/event_management_system";
 // Create axios instance
 export const axiosSecure = axios.create({
     baseURL: BASE_URL,
